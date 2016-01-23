@@ -10,11 +10,12 @@ title: Richwoods Worship Tech/Arts
 email: jason@jterhorst.com
 description: > # this means to ignore newlines until "baseurl:"
   Tutorials and teaching info for using video software and equipment at Richwoods Christian Church.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://richwoods.github.com/tutorials" # the base hostname & protocol for your site
+baseurl: "/tutorials" # the subpath of your site, e.g. /blog
+url: "https://richwoods.github.io/tutorials" # the base hostname & protocol for your site
 twitter_username: jterhorst
 github_username:  jterhorst
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 gems: ['jekyll_video_tag']
