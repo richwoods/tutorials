@@ -42,3 +42,7 @@ This app creates ProPresenter slides from a given set of notes.
 ## Service Countdown
 This app counts down before services, with an optional big countdown.
 - [Download](http://richwoods.s3.amazonaws.com/Service%20Countdown.zip)
+
+## BibleSlideMaker
+Prototype for generating ProPresenter slides easily with a given scripture passage.
+- [Download](http://richwoods.s3.amazonaws.com/BibleSlideMaker.app.zip)
