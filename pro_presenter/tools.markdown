@@ -34,15 +34,6 @@ This app pulls from our Flickr account, where we store our announcement slides. 
 This app is a quick countdown for your stage display. Choose the correct screen, type in the time you'd like to count down from and click "Start". It can display on top of ProPresenter and other apps.
 - [Download](http://richwoods.s3.amazonaws.com/Sermon%20Countdown.zip)
 
-## Sermon Slide Maker
-This app creates ProPresenter slides from a given set of notes. 
-- [Download](http://richwoods.s3.amazonaws.com/Sermon%20Slide%20Maker.zip) 
-- [Instructions](http://richwoods.s3.amazonaws.com/sermon%20slides%20creator%20notes.pdf)
-
 ## Service Countdown
 This app counts down before services, with an optional big countdown.
 - [Download](http://richwoods.s3.amazonaws.com/Service%20Countdown.zip)
-
-## BibleSlideMaker
-Prototype for generating ProPresenter slides easily with a given scripture passage.
-- [Download](http://richwoods.s3.amazonaws.com/BibleSlideMaker.app.zip)
